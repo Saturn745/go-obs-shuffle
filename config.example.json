@@ -1,0 +1,12 @@
+{
+  "obs": {
+    "host": "127.0.0.1:4455",
+    "password": "abcabc",
+    "media-source": "Video",
+    "title-source": "Title"
+  },
+  "media": {
+    "sources": [""],
+    "font": ""
+  }
+}
